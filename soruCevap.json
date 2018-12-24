@@ -1,0 +1,16 @@
+ [{No"Dili":"PHP",
+  "Soru":"Değişken nasıl tanımlanır?",
+  "Cevap":"Değişkenin başına $ konularak tanımlanır",
+},
+{ "Dili":"PHP",
+ "Soru":"Dizgelerin birleştirilmesi naıl gerçekleştirilir?",
+ "Cevap":"Dizgeler . işleci ile birleştirilir.",
+},
+{ "Dili":"C",
+ "Soru":"Ekrandan kullanıcı girdisi hangi ifade ile alınır?",
+ "Cevap":"Kullanıcı girdisi scanf"
+},
+{ "Dili":"C",
+ "Soru":"Fonksiyonda return ne anlama gelir?",
+ "Cevap":"Fonksiyonun dönüş değeri içerdiği anlamına gelmektedir."
+}]
