@@ -48,19 +48,19 @@
 
 <?php
 $myData = json_decode(
- '[{No"Dili":"PHP",
+ '[{"No":"1","Dili":"PHP",
   "Soru":"Değişken nasıl tanımlanır?",
   "Cevap":"Değişkenin başına $ konularak tanımlanır",
 },
-{ "Dili":"PHP",
+{ "No":"2","Dili":"PHP",
  "Soru":"Dizgelerin birleştirilmesi naıl gerçekleştirilir?",
  "Cevap":"Dizgeler . işleci ile birleştirilir.",
 },
-{ "Dili":"C",
+{ "No":"3","Dili":"C",
  "Soru":"Ekrandan kullanıcı girdisi hangi ifade ile alınır?",
  "Cevap":"Kullanıcı girdisi scanf"
 },
-{ "Dili":"C",
+{ "No":"4","Dili":"C",
  "Soru":"Fonksiyonda return ne anlama gelir?",
  "Cevap":"Fonksiyonun dönüş değeri içerdiği anlamına gelmektedir."
 }]',true);
