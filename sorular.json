@@ -1,0 +1,16 @@
+[{No&quot;Dili&quot;:&quot;PHP&quot;,
+&quot;Soru&quot;:&quot;Deðiþken nasýl tanýmlanýr?&quot;,
+&quot;Cevap&quot;:&quot;Deðiþkenin baþýna $ konularak tanýmlanýr&quot;,
+},
+{ &quot;Dili&quot;:&quot;PHP&quot;,
+&quot;Soru&quot;:&quot;Dizgelerin birleþtirilmesi naýl gerçekleþtirilir?&quot;,
+&quot;Cevap&quot;:&quot;Dizgeler . iþleci ile birleþtirilir.&quot;,
+},
+{ &quot;Dili&quot;:&quot;C&quot;,
+&quot;Soru&quot;:&quot;Ekrandan kullanýcý girdisi hangi ifade ile alýnýr?&quot;,
+&quot;Cevap&quot;:&quot;Kullanýcý girdisi scanf&quot;
+},
+{ &quot;Dili&quot;:&quot;C&quot;,
+&quot;Soru&quot;:&quot;Fonksiyonda return ne anlama gelir?&quot;,
+&quot;Cevap&quot;:&quot;Fonksiyonun dönüþ deðeri içerdiði anlamýna gelmektedir.&quot;
+}]
